@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I am aspring FullStack Developer
+## I am aspiring FullStack Developer
 <!--
 **CodeWithRibo/CodeWithRibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
