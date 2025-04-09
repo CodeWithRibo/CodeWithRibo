@@ -8,7 +8,7 @@
 
 ## 💼 Tech Stack
 
-- 🔹 **Frontend:** Tailwind CSS  
+- 🔹 **Frontend:** Tailwind CSS and Blade Template Engine
 - 🔹 **Backend:** Laravel (PHP Framework)
 
 ---
