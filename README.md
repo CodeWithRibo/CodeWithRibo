@@ -2,7 +2,7 @@
 
 🎓 I'm a 1st Year BSIT College Student  
 💻 Passionate about building dynamic and interactive websites  
-🚀 Currently learning and growing as a **Full-Stack Developer**
+🚀 Currently learning and growing as a **Backend Developer**
 
 ---
 
@@ -16,9 +16,8 @@
 ## 🌱 Currently Working On
 
 - Enhancing my skills in **Laravel** for backend development  
-- Mastering **Tailwind CSS** for responsive and modern UI designs  
+- Exploring on how data is work  
 - Building real-world web applications to apply what I’ve learned
-
 ---
 > *“Keep hungry learner, until  achieve your goal.” –Ribo Luna*
 
