@@ -2,7 +2,7 @@
 
 🎓 I'm a 1st Year BSIT College Student  
 💻 Passionate about building dynamic and interactive websites  
-🚀 Currently learning and growing as a **Backend Developer**
+🚀 Currently learning and growing as a **Backend Developer.**
 
 ---
 
