@@ -23,12 +23,17 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 💡 Other Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ---
 
 ## 📌 Currently Learning
 - Improving backend logic using **Laravel**
 - Responsive UI design with **TailwindCSS** and **daisyUI**
 - Creating full-stack apps using **Blade templates**
+- Automating tasks with **Bash scripts**
 - Real-world projects and GitHub workflows
 
 ---
