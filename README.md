@@ -33,7 +33,6 @@
 - Improving backend logic using **Laravel**
 - Responsive UI design with **TailwindCSS** and **daisyUI**
 - Creating full-stack apps using **Blade templates**
-- Automating tasks with **Bash scripts**
 - Real-world projects and GitHub workflows
 
 ---
