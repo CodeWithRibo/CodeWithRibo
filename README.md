@@ -33,7 +33,7 @@
 - Improving backend logic using **Laravel**
 - Responsive UI design with **TailwindCSS** and **daisyUI**
 - Creating full-stack website using **Blade templates**
-- Real-world projects
+- Hobby to create Personal Project 
 
 ---
 
