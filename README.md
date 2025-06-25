@@ -40,8 +40,5 @@
 * Creating full-stack website using **Blade templates**
 * Hobby to create Personal Project
 
----
 
-> *“If the code is working, don't touch it.” – Cesar Mauri*
-
-📫 Reach me: [riboluna2818@gmail.com](mailto:riboluna2818@gmail.com) | [Facebook](https://facebook.com/carljohn2818)
+📫 Reach me: [carljohnstotomas@gmail.com](mailto:carljohnstotomas@gmail.com) | [Facebook](https://facebook.com/carljohn2818)
