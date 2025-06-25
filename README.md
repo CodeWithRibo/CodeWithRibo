@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Carl John Sto. Tomas!
 
 🎓 2nd Year BSIT Student <br>
-💻 Aspiring Full-Stack Web Developer <br>
+💻 Aspiring Back-end Developer <br>
 🚀 Currently focused on Laravel + Tailwind projects
 
 ---
