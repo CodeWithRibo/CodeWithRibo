@@ -38,7 +38,7 @@
 * Improving backend logic using **Laravel**
 * Responsive UI design with **TailwindCSS** and **daisyUI**
 * Creating full-stack website using **Blade templates**
-* Hobby to create Personal Project
+* Hobby to create Personal Project.
 
 
 📫 Reach me: [carljohnstotomas@gmail.com](mailto:carljohnstotomas@gmail.com) | [Facebook](https://facebook.com/carljohn2818)
