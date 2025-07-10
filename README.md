@@ -2,7 +2,7 @@
 
 🎓 2nd Year BSIT Student <br>
 💻 Backend Developer <br>
-🚀 Currently focused on Laravel + Tailwind projects
+🚀 Currently learning and creating responsive and easy to navigate website
 
 ---
 
