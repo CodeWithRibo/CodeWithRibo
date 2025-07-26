@@ -11,9 +11,10 @@
 ### 🖌️ Frontend
 
 ![Blade](https://img.shields.io/badge/Blade%20Template-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E1DD2?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![daisyUI](https://img.shields.io/badge/daisyUI-FF69B4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge\&logo=alpine.js\&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-FF69B4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
