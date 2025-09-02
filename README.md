@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Carl John Sto. Tomas!
 
-🎓 2nd Year BSIT Student <br>
 💻 Full Stack Developer <br>
 🚀 Currently learning and creating responsive and easy to navigate website
 
