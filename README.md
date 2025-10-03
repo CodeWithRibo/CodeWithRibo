@@ -26,7 +26,7 @@ I am also passionate about creating responsive and easy-to-navigate websites.
 <p align="center">
   <a href="mailto:carljohn2818@email.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>  
-    <b>Email</b>: yourname@email.com
+    <b>Email</b>: carljohn2818@email.com
   </a>  
   <br/> 
 </p>
