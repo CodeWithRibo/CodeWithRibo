@@ -23,6 +23,13 @@ I am also passionate about creating responsive and easy-to-navigate websites.
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRibo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CodeWithRibo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 ##  Contact Me  
 <p align="center">
   <a href="mailto:carljohn2818@email.com">
@@ -31,9 +38,3 @@ I am also passionate about creating responsive and easy-to-navigate websites.
   </a>  
   <br/> 
 </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRibo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=CodeWithRibo&icon=0&color=0)](https://visitcount.itsvg.in)
