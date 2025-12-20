@@ -29,7 +29,6 @@ I am also passionate about creating responsive and easy-to-navigate websites.
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeWithRibo&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 ##  Contact Me  
 <p align="center">
   <a href="mailto:carljohn2818@email.com">
