@@ -31,3 +31,7 @@ I am also passionate about creating responsive and easy-to-navigate websites.
   </a>  
   <br/> 
 </p>
+
+<p align="start">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRibo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
