@@ -33,8 +33,6 @@ I am also passionate about creating responsive and easy-to-navigate websites.
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeWithRibo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodeWithRibo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRibo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
