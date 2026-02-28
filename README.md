@@ -20,12 +20,3 @@ I am also passionate about creating responsive and easy-to-navigate websites.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"/>
 </p>  
-
----
-##  Contact Me  
-<p align="center">
-  <a href="mailto:carljohn2818@email.com">
-    <b>Email</b>: carljohn2818@email.com
-  </a>  
-  <br/> 
-</p>
